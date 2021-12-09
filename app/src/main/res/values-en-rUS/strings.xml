@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bottle</string>
+    <string name="developers_text_view">Developers:</string>
+    <string name="sizov_vasily">Sizov Vasily</string>
+    <string name="cat_chels">Cat Chelsik</string>
+    <string name="start_view">START</string>
+    <string name="info_view">INFO</string>
+    <string name="share_view">SHARE</string>
+    <string name="many_view">DONAT</string>
+    <string name="website_view">WEB</string>
+    <string name="share_app">Share your app</string>
+    <string name="flick_one">" flick"</string>
+    <string name="flick_text">" flicks"</string>
+    <string name="click_bottle">Сlick on the bottle</string>
+    <string name="rules_text">Rules of the game:\n\nThe game is played by at least two or\nan even number of people.\nThe one with the bottom plays. He puts\n the specified number of flicks to the\n one to whom the neck points.</string>
+</resources>

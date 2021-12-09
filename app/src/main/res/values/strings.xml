@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Бутылочка</string>
+    <string name="developers_text_view">Разработчики:</string>
+    <string name="sizov_vasily">Сизов Василий</string>
+    <string name="cat_chels">Кот Челсик</string>
+    <string name="start_view">НАЧАЛО</string>
+    <string name="info_view">ИНФО</string>
+    <string name="share_view">ЧЕСАНУТЬ</string>
+    <string name="many_view">ЛЕПТА</string>
+    <string name="website_view">САЙТ</string>
+    <string name="share_app">\" Поделитесь своим приложением \"</string>
+    <string name="flick_one"> \t\tщелбан</string>
+    <string name="flick_text"> \t\tщелбана</string>
+    <string name="click_bottle">Жмакай по бутылке</string>
+    <string name="rules_text">Правила игры:\n\nВ игру играют минимум двое или четное количество людей.\nВыигрывает тот, у кого донышко. Он ставит указанное количество щелбанов тому, на кого указывает горлышко.</string>
+</resources>
+
+
+

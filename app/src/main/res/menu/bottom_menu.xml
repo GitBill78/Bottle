@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/twist_bottle"
+        android:icon="@drawable/start_play"
+        android:title="@string/start_view" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/baseline_share_24"
+        android:title="@string/share_view" />
+
+    <item
+        android:id="@+id/many"
+        android:icon="@drawable/many_gift"
+        android:title="@string/many_view" />
+
+    <item
+        android:id="@+id/website"
+        android:icon="@drawable/internet_website"
+        android:title="@string/website_view" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/info_view" />
+
+</menu>
